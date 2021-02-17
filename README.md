@@ -103,6 +103,7 @@ There is also a text-guided image editing method using CLIP and StyleGAN named [
 
 <p align="center">
 <img src="/asserts/results/clip_results.jpg"/> 
+original image, inversion, and manipulated results of clip weight 5/10 with text <i>he is old</i>.
 </p>
 
 ### More Results
